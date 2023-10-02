@@ -1,6 +1,4 @@
 # Data Engineering
-
-## Description
 This is a summary of my efforts in finding solutions for the tasks of the IBM Data Engineering Professional Specialization.
 
 ### In this specialization I worked with:
