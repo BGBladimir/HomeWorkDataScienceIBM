@@ -33,3 +33,7 @@ This is a summary of my efforts in finding solutions for the tasks of the IBM Da
 - Big data analytics platform – Spark
 - Business Intelligence Dashboard - IBM Cognos Analytics
 - Data Pipelines - Apache Airflow
+
+## Acknowledgements
+
+##### © Bladimir Garcia, Republica Dominicana
