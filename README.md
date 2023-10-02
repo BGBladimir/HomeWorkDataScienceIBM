@@ -3,7 +3,7 @@
 ## Description
 This is a summary of my efforts in finding solutions for the tasks of the IBM Data Engineering Professional Specialization.
 
-### In this specialization I worked with::
+### In this specialization I worked with:
 - Create, design and manage relational databases and apply database administration (DBA) concepts to RDBMS such as MySQL, PostgreSQL and IBM Db2.
 - Develop and execute SQL queries using SELECT, INSERT, UPDATE, DELETE statements, database functions, stored procedures, nested queries and JOIN.
 - Demonstrate working knowledge of NoSQL and Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, Spark Streaming.
