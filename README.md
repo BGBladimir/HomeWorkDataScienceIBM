@@ -6,6 +6,8 @@ This is a summary of my efforts in finding solutions for the tasks of the IBM Da
 - Develop and execute SQL queries using SELECT, INSERT, UPDATE, DELETE statements, database functions, stored procedures, nested queries and JOIN.
 - Demonstrate working knowledge of NoSQL and Big Data using MongoDB, Cassandra, Cloudant, Hadoop, Apache Spark, Spark SQL, Spark ML, Spark Streaming.
 - Implement ETL and Data Pipelines with Bash, Airflow and Kafka; design, populate and implement data warehouses; create BI reports and interactive dashboards.
+  
+![alt text](https://github.com/xzZero/DataEng_IBM/blob/main/13%20-%20Data%20Engineering%20Capstone%20Project/data_platform_architecture.png)
 
 ## There are 13 courses throughout the specialization and a capstone project at the end:
 1. [Introduction to Data Engineer](https://github.com/BGBladimir/IBM_Data-Engineering/tree/5448fc7f207b85793802580b59056da98dfbe1c3/1%20-%20Introduction%20to%20Data%20Engineering)
